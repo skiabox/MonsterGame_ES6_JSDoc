@@ -12,6 +12,7 @@
     "no-process-exit": "off",
     "object-shorthand": "off",
     "no-alert": "off",
-    "radix": "off"
+    "radix": "off",
+    "no-restricted-globals": ["error", "event", "fdescribe"]
   }
 }
